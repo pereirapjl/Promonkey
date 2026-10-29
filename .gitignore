@@ -5,4 +5,4 @@ data/
 *.db
 .ruff_cache/
 .pytest_cache/
-.\test
+.\tests
